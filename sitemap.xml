@@ -2,949 +2,317 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pdfxcel.com/blog/all-posts.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/blog/posts.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://pdfxcel.com/helper/hex-to-string.html</loc>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pdfxcel.com/helper/paper-sizes.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/paper-sizes/iso-A-paper-sizes.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/paper-sizes/iso-B-paper-sizes.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/paper-sizes/ansi-paper-sizes.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/paper-sizes/ARCH-paper-sizes.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/helper/url-decode-encode.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/next/merge-pdf-files-from-multiple-folders-.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-22.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/next/merge-pdf-files-from-multiple-folders-to-multiple-files.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-22.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/next/password-restrictions-for-opening-editing-and-printing-files.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/next/rename-page-number-to-a-text-search.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-4.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/handling-form-fields-during-a-document-merge.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/interleaving-pages-from-multiple-documents-during-document-merge.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-11.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-12.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-16.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-18.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/merge-all-files-in-each-subfolder-into-a-single-pdf-file.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-34.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-35.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-36.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/merge-pages-from-multiple-pdf-files-into-single-document.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-9.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/merging-documents-with-similar-file-names.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-23.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-25.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/offers/merge/merging-linked-files-into-pdf-document.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-28.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-31.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/clipboard-image-32.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/projects/240226-download-pdfs-online-and-combine-all-add-bookmarks-add-table-of-content.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/2402261-a-summary-of-the-quranic-chapters-page.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/2402262-locate-pdf-version-of-this-quranic-chapter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/2402263-pdf-file-of-quranic-chapter.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/batch-processing-and-automation/automatically-split-pdf-documents-using-a-hot-folder.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/batch-processing-and-automation/extract-pages-by-text-search.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/batch-processing-and-automation/extract-pages-by-text-search-via-bat-file.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/batch-processing-and-automation/running-autosplit-from-a-command-line-bat-file.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/divide/devide-detail.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/divide/divide-pdf-pages-into-multiple.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/naming-output-files/naming-output-files-by-text-search.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/naming-output-files/naming-output-files-using-text-from-location.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/naming-output-files/split-and-name-output-files-using-a-lookup-table.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extract-bookmarked-pages.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extract-multiple-page-ranges-by-text-search.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extract-page-detail.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extracting-custom-page-ranges-into-separate-pdf-files.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extracting-page-ranges-via-control-file.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extracting-pages-with-specific-text-invoices-by-customer-name-example.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extracting-pdf-page-ranges-into-different-folders.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-extracting/extracting-pdf-pages-that-do-not-contain-specific-keywords-or-text-patterns.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/bates-numbers.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-10.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/blank-pages.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-11.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-12.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/bookmarks.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-8.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/client-id.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-2.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/divide-one-page-into-multiple.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/split-pdf-page-into-multiple-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-20.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/invoice-number.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/splitting-invoices-by-numbers.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/output-splitting-invoices-by-numbers.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/invoices-into-multiple-folders.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-4.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/keyword-list.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-10.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-orientation.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-16.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-17.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/page-size.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-14.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-16.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-17.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/split/single-page-documents.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/split/clipboard-image-6.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/about.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/bookmark-link-table-of-content.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/company.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/contact.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/cv.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/extract-text-image-data.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/fill-pdf-form-with-data-file.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/hire.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pdfxcel.com/legacy.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/password-protection.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/project-page.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/tech/image4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/sample.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/projects.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMailMergeCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/split-service.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoBookmarkCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoExtractCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoPortfolioCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoBatchCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoDocSearchCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoInkCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoDocMailCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoRedactCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoPagexCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMassSecureCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMetadataCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/empty.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/sample.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image6.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/projects-grid-cards-1.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMailMergeCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoBookmarkCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoExtractCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoPortfolioCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoBatchCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoDocSearchCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoInkCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoDocMailCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoRedactCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoPagexCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMassSecureCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMetadataCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/empty.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/sample.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/nature/image6.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/services.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/split-pdf-file.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/combine-merge-pdf-files.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/bookmark-pdf-file.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/extract-text-to-excel-csv-word.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/secure-with-password.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/fill-pdf-form-with-data-file.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/redact-remove-sensitive-information-from-pdf.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/arrange-organize-pdf-pages.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/update-metadata-of-pdf-file.jpg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://pdfxcel.com/sitemap.html</loc>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pdfxcel.com/split-combine.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/team.html</loc>
-    <lastmod>2024-09-03T17:17+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://pdfxcel.com/tools.html</loc>
-    <lastmod>2024-09-03T20:14+05:00</lastmod>
+    <lastmod>2024-10-12T01:32+05:00</lastmod>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/logo/pdfxcel.com.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoMailMergeCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/split-service.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoBookmarkCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoExtractCard.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://pdfxcel.com/assets/img/service/AutoPortfolioCard.png</image:loc>
-    </image:image>
   </url>
 </urlset>
