@@ -1,0 +1,9 @@
+.gradient {
+  background: linear-gradient(120deg, #ad0b00, #930a00);
+  color: #fff;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
